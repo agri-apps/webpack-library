@@ -1,0 +1,26 @@
+{
+  "name": "webpack-library",
+  "version": "0.0.1",
+  "description": "A custom JS library built with webpack.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack --progress --colors --watch",    
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "john robinson <johnrob1880@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.43.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.1.0",
+    "eslint": "^7.4.0",
+    "jest": "^26.1.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
