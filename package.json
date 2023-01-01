@@ -12,15 +12,15 @@
   "author": "john robinson <johnrob1880@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "webpack": "^4.43.0"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
     "@babel/core": "^7.10.4",
     "@babel/preset-env": "^7.10.4",
     "babel-eslint": "^10.1.0",
-    "babel-loader": "^8.1.0",
+    "babel-loader": "^8.3.0",
     "eslint": "^7.4.0",
     "jest": "^26.1.0",
-    "webpack-cli": "^3.3.12"
+    "webpack-cli": "^5.0.1"
   }
 }
